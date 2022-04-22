@@ -1141,3 +1141,17 @@ p.subtitle {
 	transform: rotate(-45deg);
 }
 /* ===== End buttons ===== */
+
+.form{
+	text-decoration: none;
+	color: #fff;
+}
+.form:hover{
+	text-decoration: none;
+	color: #fff;
+}
+.btfr{
+	background-color: red;
+	padding: 10px;
+	border: 2px;
+}
