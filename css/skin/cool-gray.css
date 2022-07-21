@@ -240,8 +240,8 @@ a, a:hover, a:focus {
 
 /* === To Top === */
 .scrolltotop {
-	color: #676D75;
-	border: 2px solid #676D75;
+	color: #FFC929;
+	border: 2px solid #FFC929;
 }
 
 
@@ -250,14 +250,14 @@ a, a:hover, a:focus {
 @media only screen and (max-width : 767px) {
 
 .navbar-collapse {
-		background-color: #676D75;
+		background-color: #FFC929;
 		border-color: #fff !important;
 	}
 .navbar-default.navbar-shrink .navbar-nav > li.active > a {
 	box-shadow: none !important;
 }
 .navbar-nav > li > a:hover, .navbar-nav > li > a:focus, .navbar-nav > li.active > a {
-	color: #111;
+	color: #D81508;
 }
 
 
