@@ -1145,7 +1145,7 @@ p.subtitle {
 
 .form{
 	text-decoration: none;
-	color: #fff;
+	color: #FFC000;
 }
 .form:hover{
 	text-decoration: none;
@@ -1153,6 +1153,7 @@ p.subtitle {
 }
 .btfr{
 	background-color: red;
-	padding: 10px;
+	padding: 20px;
 	border: 2px;
+	
 }
