@@ -1145,15 +1145,18 @@ p.subtitle {
 
 .form{
 	text-decoration: none;
-	color: #FFC000;
+	color: #FF2D66;
+	font-weight: 900;
+	font-size: 50px;
 }
 .form:hover{
 	text-decoration: none;
 	color: #fff;
 }
 .btfr{
-	background-color: red;
+	background-color: #FFC000;
 	padding: 20px;
-	border: 2px;
+	border-color: #FF2D66;
+
 	
 }
